@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+.DS_Store
+.vcpkg/
+vcpkg_installed/
+*.csv.tmp
+*.json.tmp
+*.yaml.tmp
+*.yml.tmp
